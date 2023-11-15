@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Dashboard</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/style/index_style.css">
+    <link rel="stylesheet" href="assets/style/register_style.css">
   </head>
 
   <body>
     <article>
       <div class="title">
-      <h1>Login Page</h1>
+      <h1>Register Page</h1>
       </div>
       <div class="form">
 
@@ -23,7 +23,7 @@
       <input type="password" class="form-control" >
 
       <p>
-       Don't Have an Account ? Register Here
+       Have an Account ? Login Here
       </p>
 
       </div>
